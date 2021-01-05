@@ -1,0 +1,10 @@
+# Generated with apibuilderproject.rb at 05/01/2021 10:25:36
+settings:
+  code.create.directories: true
+code:
+  bml:
+    kubetest:
+      version: 0.0.1
+      generators:
+        openapi:
+          target: src/main/resources/kubetest
